@@ -1,0 +1,2 @@
+Acurácia de treino para 6 horas: 58.75%
+Acurácia de desenvolvimento para 6 horas: 39.43%

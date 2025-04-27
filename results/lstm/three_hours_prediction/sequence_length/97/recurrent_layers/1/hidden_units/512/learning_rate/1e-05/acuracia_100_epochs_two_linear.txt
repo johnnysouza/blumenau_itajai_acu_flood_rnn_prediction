@@ -1,0 +1,2 @@
+Acurácia de treino para 3 horas: 74.35%
+Acurácia de desenvolvimento para 3 horas: 82.41%

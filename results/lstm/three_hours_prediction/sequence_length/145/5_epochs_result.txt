@@ -1,0 +1,39 @@
+Three_hours_prediction
+
+------------------------------------
+
+BATCH_SIZE = 8
+FEATURES_SIZE = X_train_all.shape[1]
+LEARNING_RATE = 1e-04
+N_EPOCHS = 5
+N_HIDDEN = 64
+N_LAYERS = 2
+DROP_PROB = 0.1
+SEQUENCE_LENGTH = 145
+
+------------------------------------
+
+Epoch 0
+---------
+Train loss: 1.8365410076587072
+Test loss: 2.783198150087532
+
+Epoch 1
+---------
+Train loss: 1.8359719739512672
+Test loss: 2.6992426537039553
+
+Epoch 2
+---------
+Train loss: 1.8361913567850356
+Test loss: 2.8161432092236276
+
+Epoch 3
+---------
+Train loss: 1.8359818253702052
+Test loss: 2.822107272476871
+
+Epoch 4
+---------
+Train loss: 1.8349477512787074
+Test loss: 2.9535356441248095

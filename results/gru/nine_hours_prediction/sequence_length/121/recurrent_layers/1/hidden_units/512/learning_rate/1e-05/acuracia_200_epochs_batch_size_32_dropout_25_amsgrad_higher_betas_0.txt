@@ -1,0 +1,2 @@
+Acurácia de treino para 9 horas: 58.14%
+Acurácia de desenvolvimento para 9 horas: 42.11%
